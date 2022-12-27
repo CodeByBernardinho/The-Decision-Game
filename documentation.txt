@@ -1,0 +1,5 @@
+Documentation
+
+
+19.12: Finished and pushed the first version of my project. Not really satisfied. 
+Will maybe change the implementation form 
